@@ -1,4 +1,4 @@
-<h4 align="left">Olá 👋! Meu nome é Gabriela Z Iung e sou estudante de Ciência da Computação.<br><br>🎯 Atualmente estou focada em desenvolvimento front-end e design de UI/UX.  <br>💡 Sou apaixonada por criar interfaces bonitas, intuitivas e responsivas.  <br>📚 Estou sempre aprendendo e explorando novas ferramentas e tecnologias para aprimorar minhas habilidades.  <br><br>Vamos construir algo incrível juntos!</h4>
+<h4 align="left">Olá! Meu nome é Gabriela Z Iung e sou estudante de Ciência da Computação.<br><br>🎯 Atualmente estou focada em desenvolvimento front-end e design de UI/UX.  <br>💡 Sou apaixonada por criar interfaces bonitas, intuitivas e responsivas.  <br>📚 Estou sempre aprendendo e explorando novas ferramentas e tecnologias para aprimorar minhas habilidades.  <br><br>Vamos construir algo incrível juntos!</h4>
 
 ###
 
