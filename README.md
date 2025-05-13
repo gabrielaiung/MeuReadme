@@ -3,7 +3,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFhZ2EwbHp4dDhyM2hvZmFsa2M5azZzNXYxbzIydng0ZjZwY3AyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qP2YwW2BpB2K0qMjMk/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFhZ2EwbHp4dDhyM2hvZmFsa2M5azZzNXYxbzIydng0ZjZwY3AyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qP2YwW2BpB2K0qMjMk/giphy.gif"  />
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/ckvbaid297bvlu006sbeby8kl">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ckvbaid297bvlu006sbeby8kl&count=1&unique=false" alt="Spotify recently played"  />
   </a>
