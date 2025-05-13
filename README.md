@@ -3,13 +3,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaiung&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaiung&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFhZ2EwbHp4dDhyM2hvZmFsa2M5azZzNXYxbzIydng0ZjZwY3AyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qP2YwW2BpB2K0qMjMk/giphy.gif"  />
 
 ###
@@ -37,6 +30,14 @@
   </a>
   <a href="https://www.behance.net/gabrielzweigle#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=2b3349&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ckvbaid297bvlu006sbeby8kl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ckvbaid297bvlu006sbeby8kl&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
